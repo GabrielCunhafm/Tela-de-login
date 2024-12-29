@@ -1,0 +1,5 @@
+test@example.com;password123;Test User;2024-10-27
+user2@example.com;mypassword;User Two;2024-10-26
+gabriel10@example.com;Gabriel;Gabriel;2024-10-27
+marina10@example.com;Marina;Marina;2024-10-27
+
